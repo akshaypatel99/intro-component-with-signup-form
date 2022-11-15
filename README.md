@@ -31,7 +31,7 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [https://github.com/akshaypatel99/frontend-mentor/tree/main/intro-component-with-signup-form](https://github.com/akshaypatel99/frontend-mentor/tree/main/intro-component-with-signup-form)
+- Solution URL: [https://github.com/akshaypatel99/intro-component-with-signup-form](https://github.com/akshaypatel99/intro-component-with-signup-form)
 - Live Site URL: [https://akshaypatel99.github.io/intro-component-with-signup-form/](https://akshaypatel99.github.io/intro-component-with-signup-form/)
 
 ## My process
