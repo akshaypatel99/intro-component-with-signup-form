@@ -177,9 +177,9 @@ footer {
   article {
     display: flex;
     align-items: center;
-    justify-content: space-evenly;
-    width: 80%;
-    height: 80%;
+    justify-content: center;
+    gap: 8%;
+    width: 100%;
     padding: 2rem;
   }
 
